@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# Amazon Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://user-images.githubusercontent.com/86918112/143864479-07b6e006-4a66-4d59-9ebc-1f0ac23191e0.mp4
 
-## Available Scripts
+<div align="center" style="margin: 20px; text-align: center">
 
-In the project directory, you can run:
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueCSaraiva/Amazon-Clone?color=green&style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/HenriqueCSaraiva/Amazon-Clone?style=flat-square)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Access the app on Firebase Hosting 🔥🔥
+https://clone-e9873.web.app/
 
-### `npm test`
+https://clone-e9873.firebaseapp.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+##
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+  <a href="#project-star2">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs-rocket">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation-wrench">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#start-on">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license-memo">License</a>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Amazon UI](https://user-images.githubusercontent.com/86918112/143862599-b3234af3-eb39-4fc1-81a4-5493fe69443f.png)
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Project :star2:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This repo contains an Amazon Clone.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Basket Amazon](https://user-images.githubusercontent.com/86918112/143862747-431bc36c-2b66-4fa0-83ac-a8b66158e42e.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Techs :rocket:
 
-### Code Splitting
+- [x] [ReactJS](https://reactjs.org);
+- [x] [FireBase](https://firebase.google.com/docs);
+- [x] [Context API](https://pt-br.reactjs.org/docs/context.html).
+- [x] [Material UI](https://mui.com/pt/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br>
 
-### Analyzing the Bundle Size
+## Installation :wrench:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+First you need to clone the project using `git clone https://github.com/HenriqueCSaraiva/Amazon-Clone`.
 
-### Making a Progressive Web App
+You can install the application using `npm install` or `yarn install` on the root dir.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
+![Login Amazon](https://user-images.githubusercontent.com/86918112/143862898-f402b79f-08ff-4aa9-88d7-fb19bd36fbfa.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
+## Start :on:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To start the application interface just run `npm start` or `yarn start` on the root dir.
 
-### `npm run build` fails to minify
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License :memo:
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/HenriqueCSaraiva/Amazon-Clone/blob/main/LICENSE)**;
+- Copyright 2021 © <a href="https://github.com/HenriqueCSaraiva" target="_blank">Henrique Saraiva</a>.
+##
